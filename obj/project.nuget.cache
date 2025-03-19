@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dasD2Vvk4wDVPjvUR/yLH/809fwgVrdfsYgW/g5GREgHGoFTZdx1akjJlbwE7spNukofc9z5PLQAUnitGMDF8g==",
+  "success": true,
+  "projectFilePath": "/Users/polinaguseva/Documents/FinanceTracker/FinanceTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/polinaguseva/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

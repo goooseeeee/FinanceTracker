@@ -1,0 +1,17 @@
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/FinanceTracker
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/FinanceTracker.deps.json
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/FinanceTracker.runtimeconfig.json
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/FinanceTracker.dll
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/FinanceTracker.pdb
+/Users/polinaguseva/Documents/FinanceTracker/bin/Debug/net7.0/YamlDotNet.dll
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.csproj.AssemblyReference.cache
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.AssemblyInfoInputs.cache
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.AssemblyInfo.cs
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.csproj.CoreCompileInputs.cache
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.csproj.CopyComplete
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.dll
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/refint/FinanceTracker.dll
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.pdb
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/FinanceTracker.genruntimeconfig.cache
+/Users/polinaguseva/Documents/FinanceTracker/obj/Debug/net7.0/ref/FinanceTracker.dll
